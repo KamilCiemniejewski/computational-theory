@@ -6,9 +6,9 @@ The main work is completed in a Jupyter Notebook called `problems.ipynb`. It con
 # Requirements
 To run this project, you will need:
 
-- Python 3
-- Jupyter Notebook
-- NumPy
+- [Python 3](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [NumPy](https://numpy.org/)
 
 The required Python packages are listed in `requirements.txt`.
 
@@ -29,3 +29,9 @@ The required Python packages are listed in `requirements.txt`.
    ```
 
 5. Run the notebook cells in order.
+
+# References
+
+- [NIST FIPS 180-4: Secure Hash Standard](https://doi.org/10.6028/NIST.FIPS.180-4): the standard that defines SHA-256.
+- [NumPy documentation](https://numpy.org/doc/stable/): used for `np.uint32` and array operations.
+- [Python documentation](https://docs.python.org/3/): used for built-in types such as `bytes`.
